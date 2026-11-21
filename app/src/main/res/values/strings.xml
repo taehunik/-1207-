@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">스터디노트</string>
+    <string name="tab_today">오늘</string>
+    <string name="tab_calendar">캘린더</string>
+    <string name="tab_stopwatch">스톱워치</string>
+    <string name="tab_charts">통계</string>
+
+    <string name="dday_featured_label">대표 D-DAY</string>
+    <string name="dday_empty_title">등록된 D-Day가 없습니다</string>
+    <string name="dday_empty_subtitle">시험이나 목표 날짜를 추가해 남은 일수를 확인하세요</string>
+    <string name="dday_add_button">D-Day 추가</string>
+    <string name="dday_manage_title">D-Day 관리</string>
+    <string name="dday_set_featured">대표로 설정</string>
+
+    <string name="todo_section_title">오늘의 할 일</string>
+    <string name="todo_empty_title">등록된 일정이 없습니다</string>
+    <string name="todo_empty_subtitle">과목별 할 일을 추가하고 스톱워치로 공부 시간을 기록해 보세요</string>
+    <string name="todo_add_button">할 일 추가하기</string>
+
+    <string name="stopwatch_title">집중 스톱워치</string>
+    <string name="stopwatch_running_badge">측정 중</string>
+    <string name="stopwatch_paused_badge">일시정지</string>
+    <string name="stopwatch_save_sync">기록 저장 및 차트 반영</string>
+    <string name="stopwatch_start">시작</string>
+    <string name="stopwatch_pause">일시정지</string>
+    <string name="stopwatch_resume">계속하기</string>
+    <string name="stopwatch_reset">초기화</string>
+
+    <string name="charts_empty_title">아직 기록된 공부 시간이 없습니다</string>
+    <string name="charts_empty_subtitle">스톱워치를 실행해 첫 번째 공부 기록을 남겨보세요</string>
+    <string name="charts_go_stopwatch">스톱워치로 이동</string>
+
+    <string name="settings_title">설정 및 관리</string>
+    <string name="settings_dark_mode_title">다크 모드</string>
+    <string name="settings_dark_mode_desc">앱 내 스위치로 다크 모드를 직접 켜고 끌 수 있습니다</string>
+    <string name="settings_reset_title">전체 데이터 초기화</string>
+    <string name="settings_reset_desc">저장된 모든 과목, 할 일, 공부 기록, D-Day를 삭제합니다</string>
+    <string name="settings_reset_button">전체 데이터 초기화</string>
+</resources>

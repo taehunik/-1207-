@@ -1,0 +1,6 @@
+{
+  "name": "스터디노트",
+  "description": "심플한 공부 전용 캘린더, 할일·과목 연동 스톱워치, 대표 D-Day, 학습 통계 차트를 제공하는 로컬 Room 기반 스터디 플래너",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
